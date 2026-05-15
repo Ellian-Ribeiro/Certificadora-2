@@ -23,7 +23,6 @@ Um dispositivo de hardware não invasivo que utiliza um sensor de precisão para
 - **Cérebro:** Microcontrolador Microchip **PIC18F4550**.
 - **Sensor:** **LM35** (Sensor de temperatura centígrado de precisão).
 - **Interface Visual:** Display **LCD 16x2** (Controlador HD44780).
-- **Interface de Entrada:** Teclado Matricial 4x4 (para ajuste de setpoints).
 - **Atuadores/Alertas:**
     - Buzzer Ativo (Alerta sonoro).
     - LED de Alerta Crítico.
