@@ -25,8 +25,7 @@ Um dispositivo de hardware não invasivo que utiliza um sensor de precisão para
 - **Interface Visual:** Display **LCD 16x2** (Controlador HD44780).
 - **Atuadores/Alertas:**
     - Buzzer Ativo (Alerta sonoro).
-    - LED de Alerta Crítico.
-    - Saída para Ventoinha (Cooler).
+    - LCD de Alerta Crítico.
 
 ### Software & Ferramentas
 - **Linguagem:** C (Compilador XC8).
@@ -41,7 +40,7 @@ O firmware desenvolvido oferece as seguintes capacidades:
 
 1.  **Leitura Analógica (ADC):** Conversão do sinal do LM35 para graus Celsius com ajuste de tempo de aquisição.
 2.  **Monitoramento em Tempo Real:** Exibição contínua da temperatura e status do sistema no LCD.
-3.  **Alerta** Acionamento de alarme sonoro e LED de erro.
+3.  **Alerta** Acionamento de alarme sonoro e LDC com alarme.
 
 ---
 
